@@ -1,5 +1,5 @@
 tensorflow-cpu
-numpy == 1.18.0
+numpy == 1.22.0
 streamlit
 opencv-contrib-python-headless
 Pillow
